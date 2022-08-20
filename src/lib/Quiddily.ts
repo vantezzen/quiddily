@@ -1,10 +1,10 @@
 import wordList from "./words.json"
 
-import "./quiddly.css"
+import "./quiddily.css"
 
 import { canCrawlElement } from "./utils"
 
-export default class QuiddlyManager {
+export default class QuiddilyManager {
   public replaceWords(container: HTMLElement, frequency: number) {
     this.traverseElement(container, frequency)
   }
@@ -48,9 +48,9 @@ export default class QuiddlyManager {
         finalWords.join(" ")
       )
     } else {
-      // Element contains other elements than this text so add a "<quiddly-text>" node
+      // Element contains other elements than this text so add a "<quiddily-text>" node
       // and replace the text with it
-      const textContent = document.createElement("quiddly-text")
+      const textContent = document.createElement("quiddily-text")
       textContent.innerHTML = finalWords.join(" ")
       node.parentElement.insertBefore(textContent, node)
       node.parentElement.removeChild(node)
@@ -100,7 +100,7 @@ export default class QuiddlyManager {
       possibleReplaceMents[
         Math.floor(Math.random() * possibleReplaceMents.length)
       ]
-    const replacementWithHtmlElement = `${prefix}<quiddly-vocab data-original="${wordContent}" data-description="${replacement.description}">${replacement.word}</quiddly-vocab>${postfix}`
+    const replacementWithHtmlElement = `${prefix}<quiddily-vocab data-original="${wordContent}" data-description="${replacement.description}">${replacement.word}</quiddily-vocab>${postfix}`
     return replacementWithHtmlElement
   }
 

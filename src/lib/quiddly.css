@@ -1,4 +1,4 @@
-quiddly-vocab {
+quiddily-vocab {
   --line-color: #5b843c;
 
   background-image: linear-gradient(
@@ -32,6 +32,6 @@ quiddly-vocab {
   cursor: pointer;
 }
 
-quiddly-vocab:hover {
+quiddily-vocab:hover {
   background-color: #5b843c41;
 }

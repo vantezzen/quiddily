@@ -9,7 +9,7 @@ import "./popups.css"
  * This handles opening and closing suggestion popups.
  * Based on https://github.com/vantezzen/quill-languagetool/blob/master/src/PopupManager.ts
  */
-export default class QuiddlyPopups {
+export default class QuiddilyPopups {
   private openPopup?: HTMLElement
   private currentSuggestionElement?: HTMLElement
   private clickListener?: any
@@ -67,22 +67,22 @@ export default class QuiddlyPopups {
     document.body.addEventListener("click", this.closePopup)
 
     const popup = html`
-      <div class="quiddly-vocab-popup" style="${popupPositionStyle}">
-        <div class="quiddly-vocab-popup-header">
+      <div class="quiddily-vocab-popup" style="${popupPositionStyle}">
+        <div class="quiddily-vocab-popup-header">
           <button
-            class="quiddly-vocab-popup-close"
+            class="quiddily-vocab-popup-close"
             onclick="${this.closePopup}">
             ${raw("&times;")}
           </button>
         </div>
-        <div class="quiddly-vocab-popup-title">
+        <div class="quiddily-vocab-popup-title">
           You may replace "${originalText}" with "${suggestion.textContent}"
         </div>
-        <div class="quiddly-vocab-popup-description">
-          Quiddly is braking this page? You can disable Quiddly for this page
-          using Quiddly's settings popup!
+        <div class="quiddily-vocab-popup-description">
+          Quiddily is braking this page? You can disable Quiddily for this page
+          using Quiddily's settings popup!
         </div>
-        <!--<div class="quiddly-vocab-powered-by">Quiddly</div>-->
+        <!--<div class="quiddily-vocab-powered-by">Quiddily</div>-->
       </div>
     `
 

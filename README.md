@@ -2,11 +2,11 @@
   <img src="./assets/icon512.png" height="200" />
 </p>
 
-# Quiddly
+# Quiddily
 
 > Learn advanced english vocabulary while browsing the web.
 
-Quiddly replaces words on websites with more advances synonyms to help you learn new words.
+Quiddily replaces words on websites with more advances synonyms to help you learn new words.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ npm run build
 
 ## Contributing words
 
-To add a new word to Quiddly:
+To add a new word to Quiddily:
 
 1. Create a fork of this repository
 2. Edit the file `./src/lib/words.json` in your fork to add the new word to the bottom
@@ -50,9 +50,9 @@ Example:
 }
 ```
 
-This instructs Quiddly to replace "get" with "aquire" in texts.
+This instructs Quiddily to replace "get" with "aquire" in texts.
 
-If a word can be replaced with multiple other words (e.g. "get" can be replaced with "obtain" or "acquire"), Quiddly randomly chooses one of the possible values while replacing.
+If a word can be replaced with multiple other words (e.g. "get" can be replaced with "obtain" or "acquire"), Quiddily randomly chooses one of the possible values while replacing.
 
 ## License
 

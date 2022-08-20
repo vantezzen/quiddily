@@ -19,7 +19,7 @@ export const ALLOWED_ELEMENTS = [
   "td"
 ]
 
-// Prevents quiddly from replacing nodes like inputs and textareas
+// Prevents quiddily from replacing nodes like inputs and textareas
 export function canCrawlElement(element: HTMLElement) {
   const elementTagName = element.tagName.toLowerCase()
   return (

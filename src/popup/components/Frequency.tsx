@@ -27,7 +27,7 @@ function Frequency() {
     <div className="p-5">
       <h1 className="text-slate-600 font-bold text-lg">Frequency</h1>
       <p className="text-slate-500 text-sm">
-        Change how often Quiddly replaces words on the page with other
+        Change how often Quiddily replaces words on the page with other
         vocabulary.
       </p>
 

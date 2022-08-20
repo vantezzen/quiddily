@@ -1,4 +1,4 @@
-.quiddly-vocab-popup {
+.quiddily-vocab-popup {
   isolation: isolate;
 
   position: fixed;
@@ -18,7 +18,7 @@
   color: #39475c;
 }
 
-.quiddly-vocab-popup-close {
+.quiddily-vocab-popup-close {
   float: right;
   padding: 0.5rem;
   cursor: pointer;
@@ -27,22 +27,22 @@
   font-size: 24px;
   color: #ccc;
 }
-.quiddly-vocab-popup-close:hover {
+.quiddily-vocab-popup-close:hover {
   color: #39475c;
 }
 
-.quiddly-vocab-popup-title {
+.quiddily-vocab-popup-title {
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 0.5rem;
 }
-.quiddly-vocab-popup-description {
+.quiddily-vocab-popup-description {
   font-size: 12px;
   color: #999;
   margin-bottom: 0.5rem;
 }
 
-.quiddly-vocab-powered-by {
+.quiddily-vocab-powered-by {
   text-align: end;
   font-size: 10px;
   color: #999;

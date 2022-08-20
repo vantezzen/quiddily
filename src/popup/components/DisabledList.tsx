@@ -29,10 +29,10 @@ function DisabledList() {
     <div className="p-5">
       <h1 className="text-slate-600 font-bold text-lg">Disabled sites</h1>
       <p className="text-slate-500 text-sm">
-        Quiddly will not try to replace vocabulary on these pages.
+        Quiddily will not try to replace vocabulary on these pages.
         <br />
         You can disable for the current site if you have problems using the page
-        while Quiddly is enabled.
+        while Quiddily is enabled.
       </p>
 
       {!isCurrentHostDisabled && (
@@ -66,7 +66,7 @@ function DisabledList() {
         <div className="rounded bg-slate-100 text-center p-4">
           <h2 className="font-bold mb-2 text-xl">No disabled sites</h2>
           <p className="text-slate-500 text-sm">
-            You haven't deactivated Quiddly on any page yet
+            You haven't deactivated Quiddily on any page yet
           </p>
         </div>
       )}
