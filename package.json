@@ -6,7 +6,9 @@
   "author": "vantezzen",
   "scripts": {
     "dev": "plasmo dev",
-    "build": "plasmo build"
+    "dev:firefox": "plasmo dev --target=firefox-mv2",
+    "build": "plasmo build",
+    "build:firefox": "plasmo build --target=firefox-mv2"
   },
   "dependencies": {
     "@babel/core": "^7.18.10",
