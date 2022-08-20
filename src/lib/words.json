@@ -1,0 +1,2587 @@
+[
+  {
+    "word": "abstract",
+    "replaces": ["theoretical", "notional", "intellectual", "symbolic"]
+  },
+  {
+    "word": "abstruse",
+    "replaces": ["incomprehensible", "unfathomable", "arcane"]
+  },
+  {
+    "word": "arduous",
+    "replaces": ["hard", "toilsome", "onerous", "wearisome", "exhausting"]
+  },
+  {
+    "word": "augean",
+    "replaces": ["challenging", "difficult", "effortful"]
+  },
+  {
+    "word": "baffling",
+    "replaces": ["puzzle", "mistify", "bemuse"]
+  },
+  {
+    "word": "confined",
+    "replaces": ["cramped", "constricted", "limited"]
+  },
+  {
+    "word": "austere",
+    "replaces": ["strict", "harsh", "stern", "severe"]
+  },
+  {
+    "word": "competence",
+    "replaces": ["capability", "proficiency", "ability", "skill"]
+  },
+  {
+    "word": "parochial",
+    "replaces": ["conservative", "insular", "short-sighted"]
+  },
+  {
+    "word": "moribund",
+    "replaces": ["inactive", "stagnant", "motionless"]
+  },
+  {
+    "word": "ineptitude",
+    "replaces": ["inability", "inefficacy", "incompetence"]
+  },
+  {
+    "word": "bystander",
+    "replaces": ["observer", "onlooker", "watcher"]
+  },
+  {
+    "word": "entrench",
+    "replaces": ["establish", "ensconce", "install", "settle"]
+  },
+  {
+    "word": "all-encompassing",
+    "replaces": ["comprehensive", "wide", "extensive"]
+  },
+  {
+    "word": "contagion",
+    "replaces": ["infection", "transmission", "foulness"]
+  },
+  {
+    "word": "cohort",
+    "replaces": ["partner", "companion", "comrade"]
+  },
+  {
+    "word": "ploy",
+    "replaces": ["tactic", "gambit", "trick"]
+  },
+  {
+    "word": "idiosyncrasy",
+    "replaces": ["mannerism", "trait", "eccentricity"]
+  },
+  {
+    "word": "quibble",
+    "replaces": ["minor", "criticism", "trivial"]
+  },
+  {
+    "word": "aghast",
+    "replaces": ["horrified", "stunned", "appalled"]
+  },
+  {
+    "word": "accrue",
+    "replaces": ["collect", "gather", "amass"]
+  },
+  {
+    "word": "muzzle",
+    "replaces": ["gag", "suppress", "restrain"]
+  },
+  {
+    "word": "synergy",
+    "replaces": ["collaboration", "cooperation", "associations"]
+  },
+  {
+    "word": "officious",
+    "replaces": ["over-bearing", "high handed"]
+  },
+  {
+    "word": "dash",
+    "replaces": ["shatter", "destroy", "ruin", "spoil"]
+  },
+  {
+    "word": "outcry",
+    "replaces": ["furore", "uproar", "commotion"]
+  },
+  {
+    "word": "progenitor",
+    "replaces": ["founder", "forerunner", "begetter"]
+  },
+  {
+    "word": "sumptuous",
+    "replaces": ["lavish", "luxurious", "palatial"]
+  },
+  {
+    "word": "enthuse",
+    "replaces": ["motivate", "encourage", "inspire", "spur"]
+  },
+  {
+    "word": "underscore",
+    "replaces": ["stress", "accentuate", "point up"]
+  },
+  {
+    "word": "sanguine",
+    "replaces": ["hopeful", "assured", "positive", "buoyant"]
+  },
+  {
+    "word": "fable",
+    "replaces": ["moral", "story", "parable", "allegory"]
+  },
+  {
+    "word": "protectionist",
+    "replaces": ["shielder", "hedger", "firewall"]
+  },
+  {
+    "word": "remit",
+    "replaces": ["orbit", "ambit", "jurisdiction"]
+  },
+  {
+    "word": "slack",
+    "replaces": ["laggard", "sluggish", "inactive", "stagnant"]
+  },
+  {
+    "word": "polemics",
+    "replaces": ["debate", "discussion", "wrangling"]
+  },
+  {
+    "word": "sully",
+    "replaces": ["defile", "soil", "tarnish", "stain"]
+  },
+  {
+    "word": "salience",
+    "replaces": ["prominence", "eminence", "distinction", "the primacy"]
+  },
+  {
+    "word": "totter",
+    "replaces": ["be shaky", "be insecure", "falter"]
+  },
+  {
+    "word": "reckon",
+    "replaces": ["compute", "beleive", "figure", "assume"]
+  },
+  {
+    "word": "cataclysmic",
+    "replaces": ["disastrous", "calamitous", "devastating"]
+  },
+  {
+    "word": "unflinching",
+    "replaces": ["resolute", "steadfast", "dogged", "firm"]
+  },
+  {
+    "word": "goliath",
+    "replaces": ["giant", "titan", "whopper", "colossus"]
+  },
+  {
+    "word": "ferment",
+    "replaces": ["tumult", "uproar", "mayhem", "furore"]
+  },
+  {
+    "word": "mangled",
+    "replaces": ["mutilated", "lacerated maimed", "marred"]
+  },
+  {
+    "word": "febrile",
+    "replaces": ["tense", "edgy", "fidgety", "feverish", "flushed", "jittery"]
+  },
+  {
+    "word": "connote",
+    "replaces": ["recommend", "indicate", "signify", "denote"]
+  },
+  {
+    "word": "serpentine",
+    "replaces": ["winding", "zigzag", "meandering", "twisting"]
+  },
+  {
+    "word": "heyday",
+    "replaces": ["prime", "zenith", "acme", "salad days"]
+  },
+  {
+    "word": "fret",
+    "replaces": ["worry", "agonize", "bother", "distress"]
+  },
+  {
+    "word": "inkling",
+    "replaces": ["clue", "hunch", "glimmering"]
+  },
+  {
+    "word": "perilous",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "shadowy",
+    "replaces": ["dark"]
+  },
+  {
+    "word": "determine",
+    "replaces": ["decide"]
+  },
+  {
+    "word": "certain",
+    "replaces": ["definite"]
+  },
+  {
+    "word": "savoury",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "portray",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "ruin",
+    "replaces": ["destroy"]
+  },
+  {
+    "word": "disagreement",
+    "replaces": ["difference"]
+  },
+  {
+    "word": "execute",
+    "replaces": ["do"]
+  },
+  {
+    "word": "unimaginative",
+    "replaces": ["dull"]
+  },
+  {
+    "word": "keen",
+    "replaces": ["eager"]
+  },
+  {
+    "word": "end",
+    "replaces": ["stop"]
+  },
+  {
+    "word": "appreciate",
+    "replaces": ["enjoy"]
+  },
+  {
+    "word": "elaborate",
+    "replaces": ["explain"]
+  },
+  {
+    "word": "stout",
+    "replaces": ["fat"]
+  },
+  {
+    "word": "fright",
+    "replaces": ["fear"]
+  },
+  {
+    "word": "soar",
+    "replaces": ["fly"]
+  },
+  {
+    "word": "humorous",
+    "replaces": ["funny"]
+  },
+  {
+    "word": "acquire",
+    "replaces": ["get"]
+  },
+  {
+    "word": "recede",
+    "replaces": ["go"]
+  },
+  {
+    "word": "excellent",
+    "replaces": ["good"]
+  },
+  {
+    "word": "noteworthy",
+    "replaces": ["great"]
+  },
+  {
+    "word": "improper",
+    "replaces": ["gross"]
+  },
+  {
+    "word": "pleased",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "despise",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "aid",
+    "replaces": ["help"]
+  },
+  {
+    "word": "conceal",
+    "replaces": ["hide"]
+  },
+  {
+    "word": "hasten",
+    "replaces": ["hurry"]
+  },
+  {
+    "word": "thought",
+    "replaces": ["idea"]
+  },
+  {
+    "word": "fascinating",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "chuckle",
+    "replaces": ["laugh"]
+  },
+  {
+    "word": "trademark",
+    "replaces": ["label"]
+  },
+  {
+    "word": "labour",
+    "replaces": ["activity"]
+  },
+  {
+    "word": "junkyard",
+    "replaces": ["landfill"]
+  },
+  {
+    "word": "property owner",
+    "replaces": ["landlord"]
+  },
+  {
+    "word": "gadget",
+    "replaces": ["machine"]
+  },
+  {
+    "word": "considerable",
+    "replaces": ["major"]
+  },
+  {
+    "word": "malice",
+    "replaces": ["bitterness"]
+  },
+  {
+    "word": "manufacture",
+    "replaces": ["construct"]
+  },
+  {
+    "word": "adjacent",
+    "replaces": ["near"]
+  },
+  {
+    "word": "cramped",
+    "replaces": ["narrow"]
+  },
+  {
+    "word": "nearly",
+    "replaces": ["closely"]
+  },
+  {
+    "word": "brand",
+    "replaces": ["branamend"]
+  },
+  {
+    "word": "objective",
+    "replaces": ["purpose"]
+  },
+  {
+    "word": "observe",
+    "replaces": ["detect"]
+  },
+  {
+    "word": "incredible",
+    "replaces": ["amazing"]
+  },
+  {
+    "word": "unbelievable",
+    "replaces": ["amazing"]
+  },
+  {
+    "word": "improbable",
+    "replaces": ["amazing"]
+  },
+  {
+    "word": "astonishing",
+    "replaces": ["amazing"]
+  },
+  {
+    "word": "enrage",
+    "replaces": ["anger"]
+  },
+  {
+    "word": "infuriate",
+    "replaces": ["anger"]
+  },
+  {
+    "word": "arouse",
+    "replaces": ["anger"]
+  },
+  {
+    "word": "nettle",
+    "replaces": ["anger"]
+  },
+  {
+    "word": "wrathful",
+    "replaces": ["angry"]
+  },
+  {
+    "word": "furious",
+    "replaces": ["angry"]
+  },
+  {
+    "word": "enraged",
+    "replaces": ["angry"]
+  },
+  {
+    "word": "indignant",
+    "replaces": ["angry"]
+  },
+  {
+    "word": "reply",
+    "replaces": ["answer"]
+  },
+  {
+    "word": "respond",
+    "replaces": ["answer"]
+  },
+  {
+    "word": "retort",
+    "replaces": ["answer"]
+  },
+  {
+    "word": "acknowledge",
+    "replaces": ["answer"]
+  },
+  {
+    "word": "question",
+    "replaces": ["ask"]
+  },
+  {
+    "word": "inquire",
+    "replaces": ["ask"]
+  },
+  {
+    "word": "query",
+    "replaces": ["ask"]
+  },
+  {
+    "word": "interrogate",
+    "replaces": ["ask"]
+  },
+  {
+    "word": "dreadful",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "terrible",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "abominable",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "unpleasant",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "depraved",
+    "replaces": ["bad"]
+  },
+  {
+    "word": "rotten",
+    "replaces": ["bad"]
+  },
+  {
+    "word": "contaminated",
+    "replaces": ["bad"]
+  },
+  {
+    "word": "sinful",
+    "replaces": ["bad"]
+  },
+  {
+    "word": "gorgeous",
+    "replaces": ["beautiful"]
+  },
+  {
+    "word": "dazzling",
+    "replaces": ["beautiful"]
+  },
+  {
+    "word": "splendid",
+    "replaces": ["beautiful"]
+  },
+  {
+    "word": "magnificent",
+    "replaces": ["beautiful"]
+  },
+  {
+    "word": "start",
+    "replaces": ["begin"]
+  },
+  {
+    "word": "open",
+    "replaces": ["begin"]
+  },
+  {
+    "word": "launch",
+    "replaces": ["begin"]
+  },
+  {
+    "word": "initiate",
+    "replaces": ["begin"]
+  },
+  {
+    "word": "enormous",
+    "replaces": ["big"]
+  },
+  {
+    "word": "huge",
+    "replaces": ["big"]
+  },
+  {
+    "word": "immense",
+    "replaces": ["big"]
+  },
+  {
+    "word": "gigantic",
+    "replaces": ["big"]
+  },
+  {
+    "word": "courageous",
+    "replaces": ["brave"]
+  },
+  {
+    "word": "fearless",
+    "replaces": ["brave"]
+  },
+  {
+    "word": "dauntless",
+    "replaces": ["brave"]
+  },
+  {
+    "word": "intrepid",
+    "replaces": ["brave"]
+  },
+  {
+    "word": "fracture",
+    "replaces": ["break"]
+  },
+  {
+    "word": "wreck",
+    "replaces": ["break"]
+  },
+  {
+    "word": "crash",
+    "replaces": ["break"]
+  },
+  {
+    "word": "demolish",
+    "replaces": ["break"]
+  },
+  {
+    "word": "sparkling",
+    "replaces": ["bright"]
+  },
+  {
+    "word": "shimmering",
+    "replaces": ["bright"]
+  },
+  {
+    "word": "radiant",
+    "replaces": ["bright"]
+  },
+  {
+    "word": "vivid",
+    "replaces": ["bright"]
+  },
+  {
+    "word": "quiet",
+    "replaces": ["calm"]
+  },
+  {
+    "word": "peaceful",
+    "replaces": ["calm"]
+  },
+  {
+    "word": "unruffled",
+    "replaces": ["calm"]
+  },
+  {
+    "word": "tranquil",
+    "replaces": ["calm"]
+  },
+  {
+    "word": "approach",
+    "replaces": ["come"]
+  },
+  {
+    "word": "advance",
+    "replaces": ["come"]
+  },
+  {
+    "word": "near",
+    "replaces": ["come"]
+  },
+  {
+    "word": "arrive",
+    "replaces": ["come"]
+  },
+  {
+    "word": "chilly",
+    "replaces": ["cool"]
+  },
+  {
+    "word": "cold",
+    "replaces": ["cool"]
+  },
+  {
+    "word": "frosty",
+    "replaces": ["cool"]
+  },
+  {
+    "word": "frigid",
+    "replaces": ["cool"]
+  },
+  {
+    "word": "bent",
+    "replaces": ["crooked"]
+  },
+  {
+    "word": "twisted",
+    "replaces": ["crooked"]
+  },
+  {
+    "word": "zigzag",
+    "replaces": ["crooked"]
+  },
+  {
+    "word": "hooked",
+    "replaces": ["crooked"]
+  },
+  {
+    "word": "weep",
+    "replaces": ["cry"]
+  },
+  {
+    "word": "wail",
+    "replaces": ["cry"]
+  },
+  {
+    "word": "sob",
+    "replaces": ["cry"]
+  },
+  {
+    "word": "bawl",
+    "replaces": ["cry"]
+  },
+  {
+    "word": "slice",
+    "replaces": ["cut"]
+  },
+  {
+    "word": "carve",
+    "replaces": ["cut"]
+  },
+  {
+    "word": "cleave",
+    "replaces": ["cut"]
+  },
+  {
+    "word": "slit",
+    "replaces": ["cut"]
+  },
+  {
+    "word": "perilous",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "hazardous",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "risky",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "uncertain",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "shadowy",
+    "replaces": ["dark"]
+  },
+  {
+    "word": "unlit",
+    "replaces": ["dark"]
+  },
+  {
+    "word": "murky",
+    "replaces": ["dark"]
+  },
+  {
+    "word": "gloomy",
+    "replaces": ["dark"]
+  },
+  {
+    "word": "determine",
+    "replaces": ["decide"]
+  },
+  {
+    "word": "settle",
+    "replaces": ["decide"]
+  },
+  {
+    "word": "choose",
+    "replaces": ["decide"]
+  },
+  {
+    "word": "resolve",
+    "replaces": ["decide"]
+  },
+  {
+    "word": "certain",
+    "replaces": ["definite"]
+  },
+  {
+    "word": "sure",
+    "replaces": ["definite"]
+  },
+  {
+    "word": "positive",
+    "replaces": ["definite"]
+  },
+  {
+    "word": "determined",
+    "replaces": ["definite"]
+  },
+  {
+    "word": "savory",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "delectable",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "appetizing",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "luscious",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "portray",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "characterize",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "picture",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "narrate",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "ruin",
+    "replaces": ["destroy"]
+  },
+  {
+    "word": "demolish",
+    "replaces": ["destroy"]
+  },
+  {
+    "word": "raze",
+    "replaces": ["destroy"]
+  },
+  {
+    "word": "slay",
+    "replaces": ["destroy"]
+  },
+  {
+    "word": "disagreement",
+    "replaces": ["difference"]
+  },
+  {
+    "word": "inequity",
+    "replaces": ["difference"]
+  },
+  {
+    "word": "contrast",
+    "replaces": ["difference"]
+  },
+  {
+    "word": "dissimilarity",
+    "replaces": ["difference"]
+  },
+  {
+    "word": "execute",
+    "replaces": ["do"]
+  },
+  {
+    "word": "enact",
+    "replaces": ["do"]
+  },
+  {
+    "word": "carry out",
+    "replaces": ["do"]
+  },
+  {
+    "word": "finish",
+    "replaces": ["do"]
+  },
+  {
+    "word": "unimaginative",
+    "replaces": ["dull"]
+  },
+  {
+    "word": "lifeless",
+    "replaces": ["dull"]
+  },
+  {
+    "word": "tedious",
+    "replaces": ["dull"]
+  },
+  {
+    "word": "tiresome",
+    "replaces": ["dull"]
+  },
+  {
+    "word": "keen",
+    "replaces": ["eager"]
+  },
+  {
+    "word": "fervent",
+    "replaces": ["eager"]
+  },
+  {
+    "word": "enthusiastic",
+    "replaces": ["eager"]
+  },
+  {
+    "word": "involved",
+    "replaces": ["eager"]
+  },
+  {
+    "word": "stop",
+    "replaces": ["end"]
+  },
+  {
+    "word": "finish",
+    "replaces": ["end"]
+  },
+  {
+    "word": "terminate",
+    "replaces": ["end"]
+  },
+  {
+    "word": "conclude",
+    "replaces": ["end"]
+  },
+  {
+    "word": "appreciate",
+    "replaces": ["enjoy"]
+  },
+  {
+    "word": "delight in",
+    "replaces": ["enjoy"]
+  },
+  {
+    "word": "be pleased",
+    "replaces": ["enjoy"]
+  },
+  {
+    "word": "indulge in",
+    "replaces": ["enjoy"]
+  },
+  {
+    "word": "elaborate",
+    "replaces": ["explain"]
+  },
+  {
+    "word": "clarify",
+    "replaces": ["explain"]
+  },
+  {
+    "word": "define",
+    "replaces": ["explain"]
+  },
+  {
+    "word": "interpret",
+    "replaces": ["explain"]
+  },
+  {
+    "word": "just",
+    "replaces": ["fair"]
+  },
+  {
+    "word": "impartial",
+    "replaces": ["fair"]
+  },
+  {
+    "word": "unbiased",
+    "replaces": ["fair"]
+  },
+  {
+    "word": "objective",
+    "replaces": ["fair"]
+  },
+  {
+    "word": "drop",
+    "replaces": ["fall"]
+  },
+  {
+    "word": "descend",
+    "replaces": ["fall"]
+  },
+  {
+    "word": "plunge",
+    "replaces": ["fall"]
+  },
+  {
+    "word": "topple",
+    "replaces": ["fall"]
+  },
+  {
+    "word": "fake",
+    "replaces": ["false"]
+  },
+  {
+    "word": "fraudulent",
+    "replaces": ["false"]
+  },
+  {
+    "word": "counterfeit",
+    "replaces": ["false"]
+  },
+  {
+    "word": "spurious",
+    "replaces": ["false"]
+  },
+  {
+    "word": "quick",
+    "replaces": ["fast"]
+  },
+  {
+    "word": "rapid",
+    "replaces": ["fast"]
+  },
+  {
+    "word": "hasty",
+    "replaces": ["fast"]
+  },
+  {
+    "word": "swiftly",
+    "replaces": ["fast"]
+  },
+  {
+    "word": "stout",
+    "replaces": ["fat"]
+  },
+  {
+    "word": "corpulent",
+    "replaces": ["fat"]
+  },
+  {
+    "word": "paunchy",
+    "replaces": ["fat"]
+  },
+  {
+    "word": "plump",
+    "replaces": ["fat"]
+  },
+  {
+    "word": "fright",
+    "replaces": ["fear"]
+  },
+  {
+    "word": "dread",
+    "replaces": ["fear"]
+  },
+  {
+    "word": "terror",
+    "replaces": ["fear"]
+  },
+  {
+    "word": "alarm",
+    "replaces": ["fear"]
+  },
+  {
+    "word": "soar",
+    "replaces": ["fly"]
+  },
+  {
+    "word": "hover",
+    "replaces": ["fly"]
+  },
+  {
+    "word": "flit",
+    "replaces": ["fly"]
+  },
+  {
+    "word": "wing",
+    "replaces": ["fly"]
+  },
+  {
+    "word": "humorous",
+    "replaces": ["funny"]
+  },
+  {
+    "word": "amusing",
+    "replaces": ["funny"]
+  },
+  {
+    "word": "droll",
+    "replaces": ["funny"]
+  },
+  {
+    "word": "laughable",
+    "replaces": ["funny"]
+  },
+  {
+    "word": "acquire",
+    "replaces": ["get"]
+  },
+  {
+    "word": "obtain",
+    "replaces": ["get"]
+  },
+  {
+    "word": "secure",
+    "replaces": ["get"]
+  },
+  {
+    "word": "procure",
+    "replaces": ["get"]
+  },
+  {
+    "word": "recede",
+    "replaces": ["go"]
+  },
+  {
+    "word": "depart",
+    "replaces": ["go"]
+  },
+  {
+    "word": "fade",
+    "replaces": ["go"]
+  },
+  {
+    "word": "disappear",
+    "replaces": ["go"]
+  },
+  {
+    "word": "excellent",
+    "replaces": ["good"]
+  },
+  {
+    "word": "apt",
+    "replaces": ["good"]
+  },
+  {
+    "word": "marvelous",
+    "replaces": ["good"]
+  },
+  {
+    "word": "qualified",
+    "replaces": ["good"]
+  },
+  {
+    "word": "noteworthy",
+    "replaces": ["great"]
+  },
+  {
+    "word": "worthy",
+    "replaces": ["great"]
+  },
+  {
+    "word": "distinguished",
+    "replaces": ["great"]
+  },
+  {
+    "word": "remarkable",
+    "replaces": ["great"]
+  },
+  {
+    "word": "improper",
+    "replaces": ["gross"]
+  },
+  {
+    "word": "rude",
+    "replaces": ["gross"]
+  },
+  {
+    "word": "coarse",
+    "replaces": ["gross"]
+  },
+  {
+    "word": "indecent",
+    "replaces": ["gross"]
+  },
+  {
+    "word": "pleased",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "contented",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "satisfied",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "delighted",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "despise",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "loathe",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "detest",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "abhor",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "aid",
+    "replaces": ["help"]
+  },
+  {
+    "word": "assist",
+    "replaces": ["help"]
+  },
+  {
+    "word": "succor",
+    "replaces": ["help"]
+  },
+  {
+    "word": "encourage",
+    "replaces": ["help"]
+  },
+  {
+    "word": "conceal",
+    "replaces": ["hide"]
+  },
+  {
+    "word": "camouflage",
+    "replaces": ["hide"]
+  },
+  {
+    "word": "shroud",
+    "replaces": ["hide"]
+  },
+  {
+    "word": "veil",
+    "replaces": ["hide"]
+  },
+  {
+    "word": "hasten",
+    "replaces": ["hurry"]
+  },
+  {
+    "word": "urge",
+    "replaces": ["hurry"]
+  },
+  {
+    "word": "accelerate",
+    "replaces": ["hurry"]
+  },
+  {
+    "word": "bustle",
+    "replaces": ["hurry"]
+  },
+  {
+    "word": "damage",
+    "replaces": ["hurt"]
+  },
+  {
+    "word": "distress",
+    "replaces": ["hurt"]
+  },
+  {
+    "word": "afflict",
+    "replaces": ["hurt"]
+  },
+  {
+    "word": "pain",
+    "replaces": ["hurt"]
+  },
+  {
+    "word": "thought",
+    "replaces": ["idea"]
+  },
+  {
+    "word": "concept",
+    "replaces": ["idea"]
+  },
+  {
+    "word": "conception",
+    "replaces": ["idea"]
+  },
+  {
+    "word": "notion",
+    "replaces": ["idea"]
+  },
+  {
+    "word": "necessary",
+    "replaces": ["important"]
+  },
+  {
+    "word": "vital",
+    "replaces": ["important"]
+  },
+  {
+    "word": "critical",
+    "replaces": ["important"]
+  },
+  {
+    "word": "indispensable",
+    "replaces": ["important"]
+  },
+  {
+    "word": "fascinating",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "bright",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "intelligent",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "animated",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "hold",
+    "replaces": ["keep"]
+  },
+  {
+    "word": "maintain",
+    "replaces": ["keep"]
+  },
+  {
+    "word": "sustain",
+    "replaces": ["keep"]
+  },
+  {
+    "word": "support",
+    "replaces": ["keep"]
+  },
+  {
+    "word": "slay",
+    "replaces": ["kill"]
+  },
+  {
+    "word": "execute",
+    "replaces": ["kill"]
+  },
+  {
+    "word": "assassinate",
+    "replaces": ["kill"]
+  },
+  {
+    "word": "abolish",
+    "replaces": ["kill"]
+  },
+  {
+    "word": "indolent",
+    "replaces": ["lazy"]
+  },
+  {
+    "word": "slothful",
+    "replaces": ["lazy"]
+  },
+  {
+    "word": "idle",
+    "replaces": ["lazy"]
+  },
+  {
+    "word": "inactive",
+    "replaces": ["lazy"]
+  },
+  {
+    "word": "dinky",
+    "replaces": ["little"]
+  },
+  {
+    "word": "puny",
+    "replaces": ["little"]
+  },
+  {
+    "word": "diminutive",
+    "replaces": ["little"]
+  },
+  {
+    "word": "miniature",
+    "replaces": ["little"]
+  },
+  {
+    "word": "scrutinize",
+    "replaces": ["look"]
+  },
+  {
+    "word": "inspect",
+    "replaces": ["look"]
+  },
+  {
+    "word": "survey",
+    "replaces": ["look"]
+  },
+  {
+    "word": "study",
+    "replaces": ["look"]
+  },
+  {
+    "word": "like",
+    "replaces": ["love"]
+  },
+  {
+    "word": "admire",
+    "replaces": ["love"]
+  },
+  {
+    "word": "esteem",
+    "replaces": ["love"]
+  },
+  {
+    "word": "fancy",
+    "replaces": ["love"]
+  },
+  {
+    "word": "design",
+    "replaces": ["make"]
+  },
+  {
+    "word": "fabricate",
+    "replaces": ["make"]
+  },
+  {
+    "word": "manufacture",
+    "replaces": ["make"]
+  },
+  {
+    "word": "produce",
+    "replaces": ["make"]
+  },
+  {
+    "word": "impress",
+    "replaces": ["mark"]
+  },
+  {
+    "word": "effect",
+    "replaces": ["mark"]
+  },
+  {
+    "word": "trace",
+    "replaces": ["mark"]
+  },
+  {
+    "word": "imprint",
+    "replaces": ["mark"]
+  },
+  {
+    "word": "prankish",
+    "replaces": ["mischievous"]
+  },
+  {
+    "word": "waggish",
+    "replaces": ["mischievous"]
+  },
+  {
+    "word": "impish",
+    "replaces": ["mischievous"]
+  },
+  {
+    "word": "sportive",
+    "replaces": ["mischievous"]
+  },
+  {
+    "word": "plod",
+    "replaces": ["move"]
+  },
+  {
+    "word": "go",
+    "replaces": ["move"]
+  },
+  {
+    "word": "creep",
+    "replaces": ["move"]
+  },
+  {
+    "word": "crawl",
+    "replaces": ["move"]
+  },
+  {
+    "word": "trim",
+    "replaces": ["neat"]
+  },
+  {
+    "word": "dapper",
+    "replaces": ["neat"]
+  },
+  {
+    "word": "natty",
+    "replaces": ["neat"]
+  },
+  {
+    "word": "smart",
+    "replaces": ["neat"]
+  },
+  {
+    "word": "novel",
+    "replaces": ["new"]
+  },
+  {
+    "word": "modern",
+    "replaces": ["new"]
+  },
+  {
+    "word": "current",
+    "replaces": ["new"]
+  },
+  {
+    "word": "recent",
+    "replaces": ["new"]
+  },
+  {
+    "word": "aged",
+    "replaces": ["old"]
+  },
+  {
+    "word": "used",
+    "replaces": ["old"]
+  },
+  {
+    "word": "worn",
+    "replaces": ["old"]
+  },
+  {
+    "word": "dilapidated",
+    "replaces": ["old"]
+  },
+  {
+    "word": "portion",
+    "replaces": ["part"]
+  },
+  {
+    "word": "section",
+    "replaces": ["part"]
+  },
+  {
+    "word": "fraction",
+    "replaces": ["part"]
+  },
+  {
+    "word": "fragment",
+    "replaces": ["part"]
+  },
+  {
+    "word": "space",
+    "replaces": ["place"]
+  },
+  {
+    "word": "area",
+    "replaces": ["place"]
+  },
+  {
+    "word": "spot",
+    "replaces": ["place"]
+  },
+  {
+    "word": "plot",
+    "replaces": ["place"]
+  },
+  {
+    "word": "region",
+    "replaces": ["plan"]
+  },
+  {
+    "word": "location",
+    "replaces": ["plan"]
+  },
+  {
+    "word": "situation",
+    "replaces": ["plan"]
+  },
+  {
+    "word": "position",
+    "replaces": ["plan"]
+  },
+  {
+    "word": "quandary",
+    "replaces": ["predicament"]
+  },
+  {
+    "word": "dilemma",
+    "replaces": ["predicament"]
+  },
+  {
+    "word": "plight",
+    "replaces": ["predicament"]
+  },
+  {
+    "word": "spot",
+    "replaces": ["predicament"]
+  },
+  {
+    "word": "place",
+    "replaces": ["put"]
+  },
+  {
+    "word": "assign",
+    "replaces": ["put"]
+  },
+  {
+    "word": "keep",
+    "replaces": ["put"]
+  },
+  {
+    "word": "establish",
+    "replaces": ["put"]
+  },
+  {
+    "word": "tranquil",
+    "replaces": ["quiet"]
+  },
+  {
+    "word": "peaceful",
+    "replaces": ["quiet"]
+  },
+  {
+    "word": "calm",
+    "replaces": ["quiet"]
+  },
+  {
+    "word": "restful",
+    "replaces": ["quiet"]
+  },
+  {
+    "word": "correct",
+    "replaces": ["right"]
+  },
+  {
+    "word": "accurate",
+    "replaces": ["right"]
+  },
+  {
+    "word": "factual",
+    "replaces": ["right"]
+  },
+  {
+    "word": "true",
+    "replaces": ["right"]
+  },
+  {
+    "word": "race",
+    "replaces": ["run"]
+  },
+  {
+    "word": "sprint",
+    "replaces": ["run"]
+  },
+  {
+    "word": "dash",
+    "replaces": ["run"]
+  },
+  {
+    "word": "rush",
+    "replaces": ["run"]
+  },
+  {
+    "word": "recount",
+    "replaces": ["say/tell"]
+  },
+  {
+    "word": "narrate",
+    "replaces": ["say/tell"]
+  },
+  {
+    "word": "explain",
+    "replaces": ["say/tell"]
+  },
+  {
+    "word": "reveal",
+    "replaces": ["say/tell"]
+  },
+  {
+    "word": "panicked",
+    "replaces": ["scared"]
+  },
+  {
+    "word": "fearful",
+    "replaces": ["scared"]
+  },
+  {
+    "word": "unnerved",
+    "replaces": ["scared"]
+  },
+  {
+    "word": "insecure",
+    "replaces": ["scared"]
+  },
+  {
+    "word": "display",
+    "replaces": ["show"]
+  },
+  {
+    "word": "exhibit",
+    "replaces": ["show"]
+  },
+  {
+    "word": "present",
+    "replaces": ["show"]
+  },
+  {
+    "word": "note",
+    "replaces": ["show"]
+  },
+  {
+    "word": "unhurried",
+    "replaces": ["slow"]
+  },
+  {
+    "word": "behind",
+    "replaces": ["slow"]
+  },
+  {
+    "word": "tedious",
+    "replaces": ["slow"]
+  },
+  {
+    "word": "slack",
+    "replaces": ["slow"]
+  },
+  {
+    "word": "cease",
+    "replaces": ["stop"]
+  },
+  {
+    "word": "halt",
+    "replaces": ["stop"]
+  },
+  {
+    "word": "stay",
+    "replaces": ["stop"]
+  },
+  {
+    "word": "pause",
+    "replaces": ["stop"]
+  },
+  {
+    "word": "tale",
+    "replaces": ["story"]
+  },
+  {
+    "word": "yarn",
+    "replaces": ["story"]
+  },
+  {
+    "word": "account",
+    "replaces": ["story"]
+  },
+  {
+    "word": "narrative",
+    "replaces": ["story"]
+  },
+  {
+    "word": "odd",
+    "replaces": ["strange"]
+  },
+  {
+    "word": "peculiar",
+    "replaces": ["strange"]
+  },
+  {
+    "word": "unusual",
+    "replaces": ["strange"]
+  },
+  {
+    "word": "unfamiliar",
+    "replaces": ["strange"]
+  },
+  {
+    "word": "hold",
+    "replaces": ["take"]
+  },
+  {
+    "word": "catch",
+    "replaces": ["take"]
+  },
+  {
+    "word": "seize",
+    "replaces": ["take"]
+  },
+  {
+    "word": "grasp",
+    "replaces": ["take"]
+  },
+  {
+    "word": "disclose",
+    "replaces": ["tell"]
+  },
+  {
+    "word": "reveal",
+    "replaces": ["tell"]
+  },
+  {
+    "word": "show",
+    "replaces": ["tell"]
+  },
+  {
+    "word": "expose",
+    "replaces": ["tell"]
+  },
+  {
+    "word": "consider",
+    "replaces": ["think"]
+  },
+  {
+    "word": "contemplate",
+    "replaces": ["think"]
+  },
+  {
+    "word": "reflect",
+    "replaces": ["think"]
+  },
+  {
+    "word": "mediate",
+    "replaces": ["think"]
+  },
+  {
+    "word": "distress",
+    "replaces": ["trouble"]
+  },
+  {
+    "word": "anguish",
+    "replaces": ["trouble"]
+  },
+  {
+    "word": "anxiety",
+    "replaces": ["trouble"]
+  },
+  {
+    "word": "wretchedness",
+    "replaces": ["trouble"]
+  },
+  {
+    "word": "accurate",
+    "replaces": ["true"]
+  },
+  {
+    "word": "right",
+    "replaces": ["true"]
+  },
+  {
+    "word": "proper",
+    "replaces": ["true"]
+  },
+  {
+    "word": "precise",
+    "replaces": ["true"]
+  },
+  {
+    "word": "horrible",
+    "replaces": ["ugly"]
+  },
+  {
+    "word": "unpleasant",
+    "replaces": ["ugly"]
+  },
+  {
+    "word": "monstrous",
+    "replaces": ["ugly"]
+  },
+  {
+    "word": "terrifying",
+    "replaces": ["ugly"]
+  },
+  {
+    "word": "bright",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "sharp",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "brilliant",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "astute",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "wise",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "dumb",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "idiotic",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "dimwitted",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "slow",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "dense",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "crucial",
+    "replaces": ["essential"]
+  },
+  {
+    "word": "critical",
+    "replaces": ["essential"]
+  },
+  {
+    "word": "vital",
+    "replaces": ["essential"]
+  },
+  {
+    "word": "integral",
+    "replaces": ["essential"]
+  },
+  {
+    "word": "indispensable",
+    "replaces": ["essential"]
+  },
+  {
+    "word": "inconsequential",
+    "replaces": ["irrelevant"]
+  },
+  {
+    "word": "useless",
+    "replaces": ["irrelevant"]
+  },
+  {
+    "word": "meaningless",
+    "replaces": ["irrelevant"]
+  },
+  {
+    "word": "trivial",
+    "replaces": ["irrelevant"]
+  },
+  {
+    "word": "insignificant",
+    "replaces": ["irrelevant"]
+  },
+  {
+    "word": "magnificent",
+    "replaces": ["excellent"]
+  },
+  {
+    "word": "phenomenal",
+    "replaces": ["excellent"]
+  },
+  {
+    "word": "top-notch",
+    "replaces": ["excellent"]
+  },
+  {
+    "word": "world-class",
+    "replaces": ["excellent"]
+  },
+  {
+    "word": "outstanding",
+    "replaces": ["excellent"]
+  },
+  {
+    "word": "fitting",
+    "replaces": ["acceptable"]
+  },
+  {
+    "word": "suitable",
+    "replaces": ["acceptable"]
+  },
+  {
+    "word": "satisfactory",
+    "replaces": ["acceptable"]
+  },
+  {
+    "word": "adequate",
+    "replaces": ["acceptable"]
+  },
+  {
+    "word": "appropriate",
+    "replaces": ["acceptable"]
+  },
+  {
+    "word": "horrible",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "abominable",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "repulsive",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "despicable",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "atrocious",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "captivating",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "enchanting",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "fascinating",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "enthralling",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "intriguing",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "dull",
+    "replaces": ["boring"]
+  },
+  {
+    "word": "tiresome",
+    "replaces": ["boring"]
+  },
+  {
+    "word": "mundane",
+    "replaces": ["boring"]
+  },
+  {
+    "word": "humdrum",
+    "replaces": ["boring"]
+  },
+  {
+    "word": "monotonous",
+    "replaces": ["boring"]
+  },
+  {
+    "word": "doubtful",
+    "replaces": ["uncertain"]
+  },
+  {
+    "word": "questionable",
+    "replaces": ["uncertain"]
+  },
+  {
+    "word": "dubious",
+    "replaces": ["uncertain"]
+  },
+  {
+    "word": "far-fetched",
+    "replaces": ["uncertain"]
+  },
+  {
+    "word": "unproven",
+    "replaces": ["uncertain"]
+  },
+  {
+    "word": "modern",
+    "replaces": ["new"]
+  },
+  {
+    "word": "contemporary",
+    "replaces": ["new"]
+  },
+  {
+    "word": "up-to-date",
+    "replaces": ["new"]
+  },
+  {
+    "word": "novel",
+    "replaces": ["new"]
+  },
+  {
+    "word": "fresh",
+    "replaces": ["new"]
+  },
+  {
+    "word": "outdated",
+    "replaces": ["old"]
+  },
+  {
+    "word": "antiquated",
+    "replaces": ["old"]
+  },
+  {
+    "word": "obsolete",
+    "replaces": ["old"]
+  },
+  {
+    "word": "archaic",
+    "replaces": ["old"]
+  },
+  {
+    "word": "old-fashioned",
+    "replaces": ["old"]
+  },
+  {
+    "word": "simple",
+    "replaces": ["easy"]
+  },
+  {
+    "word": "child’s play",
+    "replaces": ["easy"]
+  },
+  {
+    "word": "straightforward",
+    "replaces": ["easy"]
+  },
+  {
+    "word": "effortless",
+    "replaces": ["easy"]
+  },
+  {
+    "word": "uncomplicated",
+    "replaces": ["easy"]
+  },
+  {
+    "word": "challenging",
+    "replaces": ["difficult"]
+  },
+  {
+    "word": "daunting",
+    "replaces": ["difficult"]
+  },
+  {
+    "word": "taxing",
+    "replaces": ["difficult"]
+  },
+  {
+    "word": "tough",
+    "replaces": ["difficult"]
+  },
+  {
+    "word": "tricky",
+    "replaces": ["difficult"]
+  },
+  {
+    "word": "powerful",
+    "replaces": ["strong"]
+  },
+  {
+    "word": "intense",
+    "replaces": ["strong"]
+  },
+  {
+    "word": "firm",
+    "replaces": ["strong"]
+  },
+  {
+    "word": "solid",
+    "replaces": ["strong"]
+  },
+  {
+    "word": "potent",
+    "replaces": ["strong"]
+  },
+  {
+    "word": "frail",
+    "replaces": ["weak"]
+  },
+  {
+    "word": "feeble",
+    "replaces": ["weak"]
+  },
+  {
+    "word": "shaky",
+    "replaces": ["weak"]
+  },
+  {
+    "word": "flimsy",
+    "replaces": ["weak"]
+  },
+  {
+    "word": "fragile",
+    "replaces": ["weak"]
+  },
+  {
+    "word": "colossal",
+    "replaces": ["huge"]
+  },
+  {
+    "word": "gigantic",
+    "replaces": ["huge"]
+  },
+  {
+    "word": "astronomical",
+    "replaces": ["huge"]
+  },
+  {
+    "word": "immense",
+    "replaces": ["huge"]
+  },
+  {
+    "word": "gargantuan",
+    "replaces": ["huge"]
+  },
+  {
+    "word": "minuscule",
+    "replaces": ["tiny"]
+  },
+  {
+    "word": "itsy-bitsy",
+    "replaces": ["tiny"]
+  },
+  {
+    "word": "microscopic",
+    "replaces": ["tiny"]
+  },
+  {
+    "word": "dinky",
+    "replaces": ["tiny"]
+  },
+  {
+    "word": "minute",
+    "replaces": ["tiny"]
+  },
+  {
+    "word": "copious",
+    "replaces": ["many"]
+  },
+  {
+    "word": "abundant",
+    "replaces": ["many"]
+  },
+  {
+    "word": "numerous",
+    "replaces": ["many"]
+  },
+  {
+    "word": "ample",
+    "replaces": ["many"]
+  },
+  {
+    "word": "bountiful",
+    "replaces": ["many"]
+  },
+  {
+    "word": "smidgen",
+    "replaces": ["bit"]
+  },
+  {
+    "word": "dash",
+    "replaces": ["bit"]
+  },
+  {
+    "word": "iota",
+    "replaces": ["bit"]
+  },
+  {
+    "word": "pinch",
+    "replaces": ["bit"]
+  },
+  {
+    "word": "shred",
+    "replaces": ["bit"]
+  },
+  {
+    "word": "glut",
+    "replaces": ["excess"]
+  },
+  {
+    "word": "plethora",
+    "replaces": ["excess"]
+  },
+  {
+    "word": "wealth",
+    "replaces": ["excess"]
+  },
+  {
+    "word": "surplus",
+    "replaces": ["excess"]
+  },
+  {
+    "word": "overabundance",
+    "replaces": ["excess"]
+  },
+
+  {
+    "word": "adore",
+    "replaces": ["love"]
+  },
+  {
+    "word": "aghast",
+    "replaces": ["shocked"]
+  },
+  {
+    "word": "agitated",
+    "replaces": ["worried"]
+  },
+  {
+    "word": "amalgam",
+    "replaces": ["combination", "mixture"]
+  },
+  {
+    "word": "ascertain",
+    "replaces": ["figure out"]
+  },
+  {
+    "word": "astute",
+    "replaces": ["smart"]
+  },
+  {
+    "word": "aver",
+    "replaces": ["declare"]
+  },
+  {
+    "word": "commence",
+    "replaces": ["begin"]
+  },
+  {
+    "word": "contemplate",
+    "replaces": ["think"]
+  },
+  {
+    "word": "cunning",
+    "replaces": ["clever"]
+  },
+  {
+    "word": "curious",
+    "replaces": ["weird"]
+  },
+  {
+    "word": "delighted",
+    "replaces": ["happy"]
+  },
+  {
+    "word": "dilapidated",
+    "replaces": ["old"]
+  },
+  {
+    "word": "divulge",
+    "replaces": ["tell"]
+  },
+  {
+    "word": "egregious",
+    "replaces": ["awful"]
+  },
+  {
+    "word": "erroneous",
+    "replaces": ["wrong"]
+  },
+  {
+    "word": "exasperated",
+    "replaces": ["annoyed"]
+  },
+  {
+    "word": "expeditiously",
+    "replaces": ["fast"]
+  },
+  {
+    "word": "exquisite",
+    "replaces": ["delicious"]
+  },
+  {
+    "word": "fallacious",
+    "replaces": ["false"]
+  },
+  {
+    "word": "fatigued",
+    "replaces": ["tired"]
+  },
+  {
+    "word": "frigid",
+    "replaces": ["cold"]
+  },
+  {
+    "word": "frugal",
+    "replaces": ["thrifty"]
+  },
+  {
+    "word": "ghastly",
+    "replaces": ["ugly"]
+  },
+  {
+    "word": "impartial",
+    "replaces": ["fair"]
+  },
+  {
+    "word": "incandescent",
+    "replaces": ["bright"]
+  },
+  {
+    "word": "inquire",
+    "replaces": ["ask"]
+  },
+  {
+    "word": "intriguing",
+    "replaces": ["interesting"]
+  },
+  {
+    "word": "keen to",
+    "replaces": ["excited"]
+  },
+  {
+    "word": "livid",
+    "replaces": ["angry"]
+  },
+  {
+    "word": "loathe",
+    "replaces": ["hate"]
+  },
+  {
+    "word": "mercurial",
+    "replaces": ["moody"]
+  },
+  {
+    "word": "minutiae",
+    "replaces": ["details"]
+  },
+  {
+    "word": "misfortune",
+    "replaces": ["trouble"]
+  },
+  {
+    "word": "obtuse",
+    "replaces": ["stupid"]
+  },
+  {
+    "word": "outlandish",
+    "replaces": ["strange"]
+  },
+  {
+    "word": "perilous",
+    "replaces": ["dangerous"]
+  },
+  {
+    "word": "plunge",
+    "replaces": ["fall"]
+  },
+  {
+    "word": "portray",
+    "replaces": ["describe"]
+  },
+  {
+    "word": "predicament",
+    "replaces": ["problem"]
+  },
+  {
+    "word": "profess",
+    "replaces": ["declare"]
+  },
+  {
+    "word": "profligate",
+    "replaces": ["extravagant"]
+  },
+  {
+    "word": "punctilious",
+    "replaces": ["thorough"]
+  },
+  {
+    "word": "quandary",
+    "replaces": ["problem"]
+  },
+  {
+    "word": "ravishing",
+    "replaces": ["beautiful"]
+  },
+  {
+    "word": "stagnant",
+    "replaces": ["on hold"]
+  },
+  {
+    "word": "tranquil",
+    "replaces": ["calm"]
+  },
+  {
+    "word": "uncouth",
+    "replaces": ["rude"]
+  },
+  {
+    "word": "utterly",
+    "replaces": ["literally"]
+  },
+  {
+    "word": "valorous",
+    "replaces": ["brave"]
+  },
+
+  {
+    "word": "mores",
+    "replaces": ["norms", "virtues", "values"]
+  },
+  {
+    "word": "assuage",
+    "replaces": ["soothe", "appease", "allay", "pacify", "mitigate", "calm"]
+  },
+  {
+    "word": "valiant",
+    "replaces": ["brave", "gallant", "courageous", "valorous", "doughty"]
+  },
+  {
+    "word": "rebuke",
+    "replaces": [
+      "reprove",
+      "reprimand",
+      "reprehend",
+      "scold",
+      "upbraid",
+      "chide"
+    ]
+  },
+  {
+    "word": "attrition",
+    "replaces": ["abrasion", "wear", "friction"]
+  },
+  {
+    "word": "snide",
+    "replaces": ["tricky", "deceptive", "false", "spurious", "contemptible"]
+  },
+  {
+    "word": "impediment",
+    "replaces": ["obstruction", "hindrance", "obstacle"]
+  },
+  {
+    "word": "hapless",
+    "replaces": ["unfortunate", "unlucky", "ill-fated", "unhappy", "wretched"]
+  },
+  {
+    "word": "dreary",
+    "replaces": [
+      "dull",
+      "lifeless",
+      "gloomy",
+      "dismal",
+      "sad",
+      "cheerless",
+      "dark"
+    ]
+  },
+  {
+    "word": "recollect",
+    "replaces": ["remember", "remind"]
+  },
+  {
+    "word": "salubrious",
+    "replaces": ["healthy", "wholesome", "healthful", "sound"]
+  },
+  {
+    "word": "prorate",
+    "replaces": ["allocate", "distribute"]
+  },
+  {
+    "word": "vista",
+    "replaces": ["outlook", "view", "prospect", "perspective", "sight"]
+  },
+  {
+    "word": "dour",
+    "replaces": [
+      "severe",
+      "stern",
+      "austere",
+      "rigid",
+      "grim",
+      "strict",
+      "hard"
+    ]
+  },
+  {
+    "word": "severely",
+    "replaces": ["very"]
+  },
+  {
+    "word": "imperious",
+    "replaces": ["imperative", "overbearing", "masterful", "authoritative"]
+  },
+  {
+    "word": "palpably",
+    "replaces": ["obviously"]
+  },
+  {
+    "word": "prickly",
+    "replaces": ["sensitive", "edgy"]
+  },
+  {
+    "word": "borne",
+    "replaces": ["endured", "carried", "supported"]
+  },
+  {
+    "word": "elective",
+    "replaces": ["optional"]
+  },
+  {
+    "word": "facultative",
+    "replaces": ["optional"]
+  },
+  {
+    "word": "quilt",
+    "replaces": ["comforter", "coverlet", "blanket"]
+  },
+  {
+    "word": "lassitude",
+    "replaces": ["weariness", "fatigue", "tiredness", "exhaustion"]
+  },
+  {
+    "word": "algid",
+    "replaces": ["chilly", "cold", "icy"]
+  },
+  {
+    "word": "malade",
+    "replaces": ["ill"]
+  },
+  {
+    "word": "quiescent",
+    "replaces": ["still", "quiet", "calm", "tranquil", "placid", "composed"]
+  },
+  {
+    "word": "encroachment",
+    "replaces": ["invasion", "infringement"]
+  },
+  {
+    "word": "happy-go-lucky",
+    "replaces": ["carefree"]
+  },
+  {
+    "word": "clemency",
+    "replaces": ["mercy", "leniency", "lenience", "mildness"]
+  },
+  {
+    "word": "ditzy",
+    "replaces": ["silly"]
+  },
+  {
+    "word": "scatterbrained",
+    "replaces": ["silly"]
+  },
+  {
+    "word": "enfeeble",
+    "replaces": ["weaken", "debilitate", "enervate", "impair", "attenuate"]
+  },
+  {
+    "word": "self-professed",
+    "replaces": ["self-proclaimed", "announced"]
+  }
+]

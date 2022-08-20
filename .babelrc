@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "./node_modules/nanohtml/lib/babel.js",
+      {
+        "useImport": true
+      }
+    ]
+  ]
+}
