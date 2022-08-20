@@ -1,14 +1,14 @@
 {
   "name": "quiddily",
   "displayName": "Quiddily",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learn advanced english vocabulary while browsing the web.",
   "author": "vantezzen",
   "scripts": {
     "dev": "plasmo dev",
     "dev:firefox": "plasmo dev --target=firefox-mv2",
-    "build": "plasmo build",
-    "build:firefox": "plasmo build --target=firefox-mv2"
+    "build": "plasmo build --zip",
+    "build:firefox": "plasmo build --target=firefox-mv2 --zip"
   },
   "dependencies": {
     "@babel/core": "^7.18.10",
