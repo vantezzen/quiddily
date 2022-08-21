@@ -1,10 +1,10 @@
-import wordList from "./words.json"
-
 import "./quiddily.css"
 
+import QuiddilyWords from "./QuiddilyWords"
 import { canCrawlElement } from "./utils"
 
-export default class QuiddilyManager {
+export default class Quiddily {
+  private words = new QuiddilyWords()
   public replaceWords(container: HTMLElement, frequency: number) {
     this.traverseElement(container, frequency)
   }
@@ -67,9 +67,7 @@ export default class QuiddilyManager {
       }
 
       const [prefix, wordContent, postfix] = this.getWordComponents(word)
-      const possibleReplaceMents = wordList.filter((wordItem) =>
-        wordItem.replaces.includes(wordContent)
-      )
+      const possibleReplaceMents = this.words.getSynonymsForWord(wordContent)
 
       if (possibleReplaceMents.length) {
         const replacementWithHtmlElement = this.replaceWordWithReplacement(
@@ -87,11 +85,7 @@ export default class QuiddilyManager {
   }
 
   private replaceWordWithReplacement(
-    possibleReplaceMents: {
-      word: string
-      description: string
-      replaces: string[]
-    }[],
+    possibleReplaceMents: string[],
     prefix: string,
     wordContent: string,
     postfix: string
@@ -100,7 +94,7 @@ export default class QuiddilyManager {
       possibleReplaceMents[
         Math.floor(Math.random() * possibleReplaceMents.length)
       ]
-    const replacementWithHtmlElement = `${prefix}<quiddily-vocab data-original="${wordContent}" data-description="${replacement.description}">${replacement.word}</quiddily-vocab>${postfix}`
+    const replacementWithHtmlElement = `${prefix}<quiddily-vocab data-original="${wordContent}">${replacement}</quiddily-vocab>${postfix}`
     return replacementWithHtmlElement
   }
 

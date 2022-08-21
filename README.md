@@ -39,7 +39,7 @@ To add a new word to Quiddily:
 Words contain these fields:
 
 - `word` (required): Advanced english vocabulary word
-- `replaces`: Array of words your word can replace.
+- `replaces`: Array of words your word can replace. All words in here should be **lowercase** even if they are normally captialized in a certain way.
 
 Example:
 

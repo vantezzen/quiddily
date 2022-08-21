@@ -1,6 +1,6 @@
 import { Storage } from "@plasmohq/storage"
 
-import QuiddilyManager from "~src/lib/Quiddily"
+import Quiddily from "~src/lib/Quiddily"
 import QuiddilyPopups from "~src/lib/QuiddilyPopups"
 
 ;(async () => {
@@ -10,7 +10,7 @@ import QuiddilyPopups from "~src/lib/QuiddilyPopups"
 
   if (!disabledHosts.includes(currentHost)) {
     const frequency = (await storage.get<number>("frequency")) ?? 0.5
-    const quiddily = new QuiddilyManager()
+    const quiddily = new Quiddily()
     quiddily.replaceWords(document.body, frequency)
 
     new QuiddilyPopups()
