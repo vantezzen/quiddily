@@ -25,6 +25,7 @@ export default class NodeHandler {
 
   private replaceWordsInTextNode(node: Node) {
     if (node.textContent.trim() === "") return
+    console.log("Handle text node", node)
 
     const words = node.textContent.split(" ")
     const finalWords = this.quiddily.wordReplacer.replaceWordsInString(words)
