@@ -5,9 +5,9 @@ import { useStorage } from "@plasmohq/storage"
 const FREQUENCY_DESCRIPTIONS = {
   0: "Almost never",
   0.2: "Sometimes",
-  0.5: "Frequently",
-  0.7: "Often",
-  0.9: "Most of the time",
+  0.4: "Frequently",
+  0.6: "Often",
+  0.8: "Most of the time",
   0.99: "Always"
 }
 
@@ -35,9 +35,9 @@ function Frequency() {
         type="range"
         name="frequency"
         id="frequency"
-        min={0.05}
+        min={0.1}
         max={1}
-        step={0.05}
+        step={0.1}
         className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer"
         value={frequency}
         onChange={(e) => {

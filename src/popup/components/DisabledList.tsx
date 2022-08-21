@@ -64,7 +64,9 @@ function DisabledList() {
 
       {disabledHosts.length === 0 && (
         <div className="rounded bg-slate-100 text-center p-4">
-          <h2 className="font-bold mb-2 text-xl">No disabled sites</h2>
+          <h2 className="font-bold mb-2 text-xl text-slate-700">
+            No disabled sites
+          </h2>
           <p className="text-slate-500 text-sm">
             You haven't deactivated Quiddily on any page yet
           </p>
