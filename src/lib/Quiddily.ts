@@ -33,8 +33,6 @@ export default class Quiddily {
           }
         } else if (mutation.type === "characterData") {
           this.nodeHandler.addQuiddilyToNode(mutation.target)
-        } else {
-          console.log("Unknown mutation type:", mutation.type)
         }
       }
     })
