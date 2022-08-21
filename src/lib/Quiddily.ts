@@ -5,36 +5,75 @@ import { canCrawlElement } from "./utils"
 
 export default class Quiddily {
   private words = new QuiddilyWords()
-  public replaceWords(container: HTMLElement, frequency: number) {
-    this.traverseElement(container, frequency)
+  private cooldown?: NodeJS.Timeout
+
+  constructor(protected frequency: number) {
+    this.addMutationObserverToPage()
   }
 
-  private traverseElement(element: HTMLElement, frequency: number) {
+  private preventLoop() {
+    if (this.cooldown) {
+      clearTimeout(this.cooldown)
+    }
+    this.cooldown = setTimeout(() => {
+      this.cooldown = undefined
+    }, 100)
+  }
+
+  private addMutationObserverToPage() {
+    const observer = new MutationObserver((mutations, observer) => {
+      for (const mutation of mutations) {
+        if (mutation.type === "childList") {
+          for (const addedNode of mutation.addedNodes) {
+            this.addQuiddilyToNode(addedNode)
+          }
+        } else if (mutation.type === "characterData") {
+          this.addQuiddilyToNode(mutation.target)
+        }
+      }
+    })
+
+    observer.observe(document, {
+      subtree: true,
+      characterData: true,
+      childList: true
+    })
+  }
+
+  public replaceWords(container: HTMLElement) {
+    this.traverseElement(container)
+  }
+
+  private traverseElement(element: HTMLElement) {
+    if (this.cooldown) return
+    this.preventLoop()
+
     if (!canCrawlElement(element)) return
 
     for (const child of element.childNodes) {
-      if (child.nodeType === Node.TEXT_NODE) {
-        this.replaceWordsInTextNode(child, frequency)
-      } else if (
-        child.nodeType === Node.ELEMENT_NODE ||
-        child.nodeType === Node.DOCUMENT_NODE
-      ) {
-        this.traverseElement(child as HTMLElement, frequency)
-      }
+      this.addQuiddilyToNode(child)
     }
   }
 
-  private replaceWordsInTextNode(node: ChildNode, frequency: number) {
+  private addQuiddilyToNode(node: Node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      this.replaceWordsInTextNode(node)
+    } else if (
+      node.nodeType === Node.ELEMENT_NODE ||
+      node.nodeType === Node.DOCUMENT_NODE
+    ) {
+      this.traverseElement(node as HTMLElement)
+    }
+  }
+
+  private replaceWordsInTextNode(node: Node) {
     if (node.textContent.trim() === "") return
     const words = node.textContent.split(" ")
-    const finalWords = this.replaceWordsInString(words, frequency)
+    const finalWords = this.replaceWordsInString(words)
     this.replaceTextNodeWithUpdatedText(node, finalWords)
   }
 
-  private replaceTextNodeWithUpdatedText(
-    node: ChildNode,
-    finalWords: string[]
-  ) {
+  private replaceTextNodeWithUpdatedText(node: Node, finalWords: string[]) {
     if (finalWords.join(" ") === node.textContent) {
       // No change needed
       return
@@ -57,10 +96,10 @@ export default class Quiddily {
     }
   }
 
-  private replaceWordsInString(words: string[], frequency: number) {
+  private replaceWordsInString(words: string[]) {
     const finalWords = []
     for (const word of words) {
-      const randomPossibility = Math.random() < frequency
+      const randomPossibility = Math.random() < this.frequency
       if (!randomPossibility) {
         finalWords.push(word)
         continue

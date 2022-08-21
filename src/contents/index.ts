@@ -10,8 +10,8 @@ import QuiddilyPopups from "~src/lib/QuiddilyPopups"
 
   if (!disabledHosts.includes(currentHost)) {
     const frequency = (await storage.get<number>("frequency")) ?? 0.5
-    const quiddily = new Quiddily()
-    quiddily.replaceWords(document.body, frequency)
+    const quiddily = new Quiddily(frequency)
+    quiddily.replaceWords(document.body)
 
     new QuiddilyPopups()
   }
