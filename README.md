@@ -8,6 +8,11 @@
 
 Quiddily replaces words on websites with more advances synonyms to help you learn new words.
 
+## Screenshots
+
+![](./stores/screenshot_1.png)
+![](./stores/screenshot_2.png)
+
 ## Getting Started
 
 1. Clone this repository
