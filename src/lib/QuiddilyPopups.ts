@@ -12,7 +12,6 @@ import "./popups.css"
 export default class QuiddilyPopups {
   private openPopup?: HTMLElement
   private currentSuggestionElement?: HTMLElement
-  private clickListener?: any
 
   constructor() {
     this.closePopup = this.closePopup.bind(this)
@@ -22,7 +21,7 @@ export default class QuiddilyPopups {
   private addEventHandler() {
     document.body.addEventListener("click", (e) => {
       const target = e.target as HTMLElement
-      if (target.tagName === "QUIDDLY-VOCAB") {
+      if (target.tagName === "QUIDDILY-VOCAB") {
         this.handleSuggestionClick(target)
       }
     })
@@ -45,15 +44,10 @@ export default class QuiddilyPopups {
 
   private handleSuggestionClick(suggestion: HTMLElement) {
     const originalText = suggestion.getAttribute("data-original")
-    const descriptionText = suggestion.getAttribute("data-description")
-    this.createSuggestionPopup(originalText, descriptionText, suggestion)
+    this.createSuggestionPopup(originalText, suggestion)
   }
 
-  private createSuggestionPopup(
-    originalText: string,
-    description: string,
-    suggestion: HTMLElement
-  ) {
+  private createSuggestionPopup(originalText: string, suggestion: HTMLElement) {
     if (this.openPopup) {
       this.closePopup()
 
@@ -78,11 +72,7 @@ export default class QuiddilyPopups {
         <div class="quiddily-vocab-popup-title">
           You may replace "${originalText}" with "${suggestion.textContent}"
         </div>
-        <div class="quiddily-vocab-popup-description">
-          Quiddily is braking this page? You can disable Quiddily for this page
-          using Quiddily's settings popup!
-        </div>
-        <!--<div class="quiddily-vocab-powered-by">Quiddily</div>-->
+        <div class="quiddily-vocab-powered-by">Quiddily</div>
       </div>
     `
 

@@ -22,6 +22,8 @@ export default class Quiddily {
 
   private addMutationObserverToPage() {
     const observer = new MutationObserver((mutations, observer) => {
+      if (this.cooldown) return
+
       for (const mutation of mutations) {
         if (mutation.type === "childList") {
           for (const addedNode of mutation.addedNodes) {
@@ -45,9 +47,6 @@ export default class Quiddily {
   }
 
   private traverseElement(element: HTMLElement) {
-    if (this.cooldown) return
-    this.preventLoop()
-
     if (!canCrawlElement(element)) return
 
     for (const child of element.childNodes) {
@@ -79,6 +78,8 @@ export default class Quiddily {
       return
     }
 
+    this.preventLoop()
+
     // TODO: Is this secure? Does this break sites?
     if (node.parentElement.childNodes.length === 1) {
       // Text is the only contents of the element so simply replace its contents
@@ -108,7 +109,7 @@ export default class Quiddily {
       const [prefix, wordContent, postfix] = this.getWordComponents(word)
       const possibleReplaceMents = this.words.getSynonymsForWord(wordContent)
 
-      if (possibleReplaceMents.length) {
+      if (possibleReplaceMents && possibleReplaceMents.length) {
         const replacementWithHtmlElement = this.replaceWordWithReplacement(
           possibleReplaceMents,
           prefix,

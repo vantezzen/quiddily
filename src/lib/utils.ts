@@ -22,9 +22,15 @@ export const ALLOWED_ELEMENTS = [
 // Prevents quiddily from replacing nodes like inputs and textareas
 export function canCrawlElement(element: HTMLElement) {
   const elementTagName = element.tagName.toLowerCase()
-  return (
+
+  const hasWhitelistedTagName =
     ALLOWED_ELEMENTS.includes(elementTagName) ||
     // Custom WebComponent elements often contain dashes
     elementTagName.includes("-")
-  )
+
+  const isQuiddilyElement =
+    element.classList.contains("quiddily-vocab-popup") ||
+    element.tagName.includes("QUIDDILY")
+
+  return hasWhitelistedTagName && !isQuiddilyElement
 }
